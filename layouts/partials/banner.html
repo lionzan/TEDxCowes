@@ -13,7 +13,11 @@
 			<i class="{{ .icon }}"></i>
 		</div>
 		{{ end }}
+		{{ if .icon }}
+		<img src="{{ .icon }}" />
+		{{ else }}
 		<h1>{{ .title | markdownify }}</h1>
+		{{ end }}
 		<p>{{ .content | markdownify }}</p>
 		{{ if .button.enable }}
 		{{ with .button }}
