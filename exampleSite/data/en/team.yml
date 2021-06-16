@@ -13,8 +13,12 @@ team:
       global ecosystem of maritime startups, and coaches leaders to multiply their
       impact on their own lives, their businesses and sustainability. '
     social:
-    - icon: ''
-      link: ''
+    - icon: ti-youtube
+      link: https://youtube.com/leonardozangrando
+    - icon: ti-twitter-alt
+      link: https://twitter.com/lionzan
+    - icon: ti-linkedin
+      link: https://linkedin.com/leonardozangrando
   - name: Abul Mal Muhit
     image_webp: images/team/team-1.webp
     image: images/team/team-1.jpg
