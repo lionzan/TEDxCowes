@@ -85,10 +85,10 @@ name = "themefisher"
 url = "https://themefisher.com/"
 weight = 8
 [params]
-author = "Themefisher"
-description = "Responsive Multipurpose Parallax Hugo Template"
+author = "Leonardo Zangrando"
+description = "TEDx is a program of local, self-organized events that bring people together to share a TED-like experience. Our event is called TEDxCowes, where x = independently organized TED event. "
 google_analytics_id = ""
-logo = "images/logo.png"
+logo = "images/TEDx_logo_BLK_RGB_3650 500px.png"
 post_share = true
 [params.cookies]
 enable = false
@@ -137,10 +137,4 @@ icon = "ti-youtube"
 link = "#"
 [[params.social]]
 icon = "ti-linkedin"
-link = "#"
-[[params.social]]
-icon = "ti-dribbble"
-link = "#"
-[[params.social]]
-icon = "ti-pinterest"
 link = "#"
