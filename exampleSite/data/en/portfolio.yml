@@ -4,21 +4,21 @@ portfolio:
   title: Our Speakers
   portfolio_item:
   - name: Speaker 3
-    image: ''
+    image: "/images/team/team-3.jpg"
     image_webp: ''
     categories:
     - Unsung Heroes
     content: Unsung hero!
     link: ''
   - name: Speaker 2
-    image: ''
+    image: "/images/team/team-2.jpg"
     image_webp: ''
     categories:
     - Leaders
     content: A Leader!
     link: ''
   - name: Speaker 1
-    image: ''
+    image: "/images/team/team-1.jpg"
     image_webp: ''
     categories:
     - startups
