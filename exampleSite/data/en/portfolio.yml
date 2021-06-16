@@ -3,6 +3,20 @@ portfolio:
   enable: true
   title: Our Speakers
   portfolio_item:
+  - name: Speaker 3
+    image: ''
+    image_webp: ''
+    categories:
+    - Unsung Heroes
+    content: Unsung hero!
+    link: ''
+  - name: Speaker 2
+    image: ''
+    image_webp: ''
+    categories:
+    - Leaders
+    content: A Leader!
+    link: ''
   - name: Speaker 1
     image: ''
     image_webp: ''
