@@ -7,7 +7,7 @@ service:
     icon: ti-home
     content: Normal people achieving exponential impact
   - name: Leaders
-    icon: ti-star
+    icon: ti-crown
     content: we will hear from a lineup of leaders
   - name: Startups
     icon: ti-rocket
