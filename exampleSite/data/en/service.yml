@@ -1,7 +1,7 @@
 ---
 service:
   enable: true
-  title: Our Sections
+  title: Event Sections
   service_item:
   - name: Unsung Heroes
     icon: ti-home
