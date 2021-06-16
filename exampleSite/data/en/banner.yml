@@ -1,11 +1,11 @@
 ---
 banner:
   enable: true
-  bg_image_webp: images/backgrounds/hero-area.webp
-  bg_image: images/backgrounds/hero-area.jpg
+  bg_image_webp: "/images/cowes-jamie-davies-3uwgezpawp4-unsplash.jpeg"
+  bg_image: "/images/cowes-jamie-davies-3uwgezpawp4-unsplash.jpeg"
   icon: ''
   title: TEDxCowes
-  content: Coming Soon!
+  content: Coming Soon to Cowes!
   button:
     enable: false
     label: Explore Us
