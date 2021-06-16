@@ -1,8 +1,8 @@
 ---
 cta:
   enable: true
-  bg_image: images/backgrounds/bg-white-wall.jpg
-  bg_image_webp: images/backgrounds/bg-white-wall.webp
+  bg_image: "/images/joseph-barrientos-oql0evyd_n8-unsplash.jpeg"
+  bg_image_webp: ''
   title: What is TEDx?
   content: In the spirit of ideas worth spreading, TED has created a program called
     TEDx. TEDx is a program of local, self-organized events that bring people together
