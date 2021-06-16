@@ -11,7 +11,7 @@
           {{ if ne .Params.Author "" }}
           <li class="list-inline-item"><a href="{{ `author/` | relLangURL }}{{ .Params.Author | urlize }}/">{{ .Params.Author }}</a></li>
           {{ end }}
-          {{ if ne .Date "" }}
+          {{ if ne .Params.Date "" }}
           <li class="list-inline-item">{{ dateFormat "Monday, Jan 2, 2006" .Date }}</li>
           {{ end }}
         </ul>
