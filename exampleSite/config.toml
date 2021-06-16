@@ -1,5 +1,5 @@
 baseURL = "https://examplesite.com"
-disableLanguages = []
+disableLanguages = ["French"]
 disqusShortname = ""
 paginate = "6"
 summaryLength = "15"
@@ -15,7 +15,7 @@ languageName = "En"
 weight = 1
 [[Languages.en.menu.main]]
 name = "about"
-url = "#about"
+url = "/blog/about-tedx-and-ted/"
 weight = 1
 [[Languages.en.menu.main]]
 name = "services"
@@ -30,10 +30,6 @@ name = "team"
 url = "#team"
 weight = 4
 [[Languages.en.menu.main]]
-name = "pricing"
-url = "#pricing"
-weight = 5
-[[Languages.en.menu.main]]
 name = "blog"
 url = "#blog"
 weight = 6
@@ -41,10 +37,6 @@ weight = 6
 name = "contact"
 url = "#contact"
 weight = 7
-[[Languages.en.menu.main]]
-name = "themefisher"
-url = "https://themefisher.com/"
-weight = 8
 [Languages.fr]
 contentDir = "content/french"
 copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
