@@ -1,10 +1,12 @@
 +++
 author = ""
 date = ""
-description = ""
-draft = true
-image = ""
+description = "Our Sponsors and Partners"
+image = "/images/TEDx_logo_BLK_RGB_3650 500px.png"
 image_webp = ""
 title = "Sponsors and Partners"
 
 +++
+### Our Sponsors:
+
+### Our Partners:
