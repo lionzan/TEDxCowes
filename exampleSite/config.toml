@@ -35,51 +35,12 @@ url = "#team"
 weight = 4
 [[Languages.en.menu.main]]
 name = "blog"
-url = "#blog"
+url = "/blog/"
 weight = 6
 [[Languages.en.menu.main]]
 name = "contact"
 url = "#contact"
 weight = 7
-[Languages.fr]
-contentDir = "content/french"
-copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
-home = "Accueil"
-languageCode = "fr-fr"
-languageName = "Fr"
-weight = 2
-[[Languages.fr.menu.main]]
-name = "sur"
-url = "#about"
-weight = 1
-[[Languages.fr.menu.main]]
-name = "un service"
-url = "#services"
-weight = 2
-[[Languages.fr.menu.main]]
-name = "portefeuille"
-url = "#portfolio"
-weight = 3
-[[Languages.fr.menu.main]]
-name = "équipe"
-url = "#team"
-weight = 4
-[[Languages.fr.menu.main]]
-name = "tarification"
-url = "#pricing"
-weight = 5
-[[Languages.fr.menu.main]]
-name = "blog"
-url = "#blog"
-weight = 6
-[[Languages.fr.menu.main]]
-name = "contact"
-url = "#contact"
-weight = 7
-[[Languages.fr.menu.main]]
-name = "themefisher"
-url = "https://themefisher.com/"
-weight = 8
 [params]
 author = "Leonardo Zangrando"
 description = "TEDx is a program of local, self-organized events that bring people together to share a TED-like experience. Our event is called TEDxCowes, where x = independently organized TED event. "
@@ -133,4 +94,4 @@ icon = "ti-youtube"
 link = "https://youtube.com/tedxcowes"
 [[params.social]]
 icon = "ti-linkedin"
-link = "https://linkedin.com/tedxcowes"
+link = "https://linkedin.com/li/tedxcowes"
