@@ -3,6 +3,9 @@ about:
   enable: true
   title: About Us
   about_item:
+  - icon: ti-shine
+    title: Why Ocean Sustainability?
+    content: ''
   - icon: ti-world
     title: What's TEDx?
     content: In the spirit of ideas worth spreading, TED has created a program called
