@@ -3,9 +3,6 @@ about:
   enable: true
   title: About Us
   about_item:
-  - icon: ti-shine
-    title: Why Ocean Sustainability?
-    content: ''
   - icon: ti-world
     title: What's TEDx?
     content: In the spirit of ideas worth spreading, TED has created a program called
@@ -17,4 +14,7 @@ about:
       events, including ours, are self-organized.
   - icon: ti-thought
     title: What's TEDxCowes?
+    content: ''
+  - icon: ti-shine
+    title: Why Ocean Sustainability?
     content: ''
