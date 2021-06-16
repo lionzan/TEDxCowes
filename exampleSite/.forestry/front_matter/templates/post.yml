@@ -24,4 +24,5 @@ fields:
   description: meta description
 pages:
 - exampleSite/content/english/blog/about-tedx-and-ted.md
+- exampleSite/content/english/blog/apply.md
 - exampleSite/content/english/blog/sponsors-and-partners.md
