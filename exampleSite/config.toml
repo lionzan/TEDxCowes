@@ -131,10 +131,10 @@ icon = "ti-facebook"
 link = "https://facebook.com/tedxcowes"
 [[params.social]]
 icon = "ti-twitter-alt"
-link = "#"
+link = "https;//twitter.com/tedxcowes"
 [[params.social]]
 icon = "ti-youtube"
-link = "#"
+link = "https://youtube.com/tedxcowes"
 [[params.social]]
 icon = "ti-linkedin"
-link = "#"
+link = "https://linkedin.com/tedxcowes"
