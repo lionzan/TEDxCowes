@@ -15,9 +15,8 @@
 		{{ end }}
 		{{ if .logo }}
 		<img src="{{ .logo }}" />
-		{{ else }}
-		<h1>{{ .title | markdownify }}</h1>
 		{{ end }}
+		<h1>{{ .title | markdownify }}</h1>
 		<p>{{ .content | markdownify }}</p>
 		{{ if .button.enable }}
 		{{ with .button }}
