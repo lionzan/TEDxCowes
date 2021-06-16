@@ -88,7 +88,7 @@ weight = 8
 author = "Leonardo Zangrando"
 description = "TEDx is a program of local, self-organized events that bring people together to share a TED-like experience. Our event is called TEDxCowes, where x = independently organized TED event. "
 google_analytics_id = ""
-logo = "images/TEDx_logo_BLK_RGB_3650 500px.png"
+logo = "images/logo.png"
 post_share = true
 [params.cookies]
 enable = false
