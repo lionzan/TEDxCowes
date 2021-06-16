@@ -6,7 +6,8 @@ portfolio:
   - name: Speaker 1
     image: ''
     image_webp: ''
-    categories: ''
+    categories:
+    - startups
     content: This is the first speaker
     link: ''
   - name: Tag Design
