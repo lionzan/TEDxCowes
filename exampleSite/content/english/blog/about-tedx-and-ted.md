@@ -1,5 +1,5 @@
 +++
-author = "Leonardo Zangrando"
+author = ""
 date = ""
 description = "In the spirit of ideas worth spreading, TEDx is a program of local, self-organized events that bring people together to share a TED-like experience."
 image = ""
