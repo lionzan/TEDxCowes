@@ -2,7 +2,7 @@
 author = ""
 date = ""
 description = "In the spirit of ideas worth spreading, TEDx is a program of local, self-organized events that bring people together to share a TED-like experience."
-image = ""
+image = "/images/TEDx_logo_BLK_RGB_3650 500px.png"
 image_webp = ""
 title = "About TEDx and TED"
 
