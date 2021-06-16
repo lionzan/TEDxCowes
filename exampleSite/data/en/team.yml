@@ -12,7 +12,9 @@ team:
       of seafarers tradition. He spearheaded the development of Startup Wharf, the
       global ecosystem of maritime startups, and coaches leaders to multiply their
       impact on their own lives, their businesses and sustainability. '
-    social: ''
+    social:
+    - icon: ''
+      link: ''
   - name: Abul Mal Muhit
     image_webp: images/team/team-1.webp
     image: images/team/team-1.jpg
