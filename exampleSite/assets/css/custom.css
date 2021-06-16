@@ -1,3 +1,7 @@
 .navigation {
   background-color: #000000;
 }
+.nav-link {
+  font-size: x-large;
+  color: white;
+}
