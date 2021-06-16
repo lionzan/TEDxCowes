@@ -23,8 +23,9 @@ team:
     image_webp: images/team/team-1.webp
     image: images/team/team-1.jpg
     designation: Curator
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus
-      ullam, culpa odio.
+    content: This person is part of the curation team who decides who will be speaking
+      at the event. The curation team provides different perspectives when choosing
+      speakers.
     social:
     - icon: ti-facebook
       link: "#"
