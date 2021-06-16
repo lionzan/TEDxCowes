@@ -14,7 +14,7 @@ languageCode = "en-us"
 languageName = "En"
 weight = 1
 [[Languages.en.menu.main]]
-name = "Apply"
+name = "apply"
 url = "/blog/apply/"
 weight = "6.5"
 [[Languages.en.menu.main]]
@@ -22,7 +22,7 @@ name = "about"
 url = "/blog/about-tedx-and-ted/"
 weight = 1
 [[Languages.en.menu.main]]
-name = "services"
+name = "sections"
 url = "#services"
 weight = 2
 [[Languages.en.menu.main]]
