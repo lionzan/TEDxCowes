@@ -2,9 +2,12 @@
   background-color: #000000;
 }
 .nav-link {
-  font-size: x-large;
+  font-size: larger;
   color: white;
 }
 .call-to-action {
   color: white;
+}
+.body {
+  font-family: helvetica,sans-serif;
 }
