@@ -3,12 +3,12 @@ service:
   enable: true
   title: Event Sections
   service_item:
-  - name: Unsung Heroes
-    icon: ti-home
-    content: Normal people achieving exponential impact
-  - name: Leaders
-    icon: ti-crown
-    content: we will hear from a lineup of leaders
-  - name: Startups
-    icon: ti-rocket
-    content: We will hear from startups actively addressing ocean sustainability
+  - name: Online
+    icon: ti-video-camera
+    content: Speakers online
+  - name: On Stage
+    icon: ti-microphone-alt
+    content: Invited speakers on stage
+  - name: On Water
+    icon: ti-anchor
+    content: Events on the water
