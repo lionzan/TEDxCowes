@@ -1,7 +1,7 @@
 ---
 portfolio:
   enable: true
-  title: Our Speakers
+  title: Speakers List
   portfolio_item:
   - name: Speaker 3
     image: "/images/team/team-3.jpg"
