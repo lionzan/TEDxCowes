@@ -9,7 +9,7 @@ funfacts:
     count: "15"
   - title: People Engaged
     icon: ti-comments
-    count: "5300"
+    count: '5,300'
   - title: Projects Launched
     icon: ti-flag-alt
     count: "35"
