@@ -4,12 +4,15 @@ funfacts:
   bg_image: images/backgrounds/bg-white-wall.jpg
   bg_image_webp: images/backgrounds/bg-white-wall.webp
   counter_item:
+  - title: Days to Go
+    icon: ti-time
+    count: "100"
   - title: Speakers on Stage
     icon: ti-microphone
     count: "15"
   - title: People Engaged
     icon: ti-comments
-    count: '5,300'
+    count: "5300"
   - title: Projects Launched
     icon: ti-flag-alt
     count: "35"
