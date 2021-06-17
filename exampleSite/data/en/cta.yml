@@ -1,7 +1,7 @@
 ---
 cta:
-  enable: false
-  bg_image: "/images/joseph-barrientos-oql0evyd_n8-unsplash.jpeg"
+  enable: true
+  bg_image: "/images/bw-joseph-barrientos-oql0evyd_n8-unsplash.jpeg"
   bg_image_webp: ''
   title: What is TEDx?
   content: In the spirit of ideas worth spreading, TED has created a program called
