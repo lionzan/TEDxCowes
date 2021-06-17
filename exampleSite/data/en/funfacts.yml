@@ -4,9 +4,6 @@ funfacts:
   bg_image: images/backgrounds/bg-white-wall.jpg
   bg_image_webp: images/backgrounds/bg-white-wall.webp
   counter_item:
-  - title: Days to Go
-    icon: ti-time
-    count: "100"
   - title: Speakers on Stage
     icon: ti-microphone
     count: "15"
