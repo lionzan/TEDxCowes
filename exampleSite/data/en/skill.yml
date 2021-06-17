@@ -1,12 +1,12 @@
 ---
 skill:
   enable: true
-  title: Our Speakers
+  title: Inspirational Guests
   subtitle: Our Speakers are Leaders, Startup, and Unsung Heroes
   content: We want to get inspired by Leaders and how they leverage their position
-    to have an impact, Startups and how they built innovative solutions for impact,
-    and Unsung Heroes, the most inspiring of all, the normal people who managed to
-    multiply their impact exponentially.
+    to have an impact, by Startups and how they built innovative solutions for impact,
+    and by Unsung Heroes, the most inspiring of all, the normal people who managed
+    to multiply their impact exponentially.
   image: images/about/company-growth.webp
   skill_item:
   - name: Leaders
