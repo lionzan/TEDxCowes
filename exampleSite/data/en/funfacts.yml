@@ -4,6 +4,9 @@ funfacts:
   bg_image: images/backgrounds/bg-white-wall.jpg
   bg_image_webp: images/backgrounds/bg-white-wall.webp
   counter_item:
+  - title: Speakers on Stage
+    icon: ti-microphone
+    count: "15"
   - title: People Engaged
     icon: ti-comments
     count: "5300"
