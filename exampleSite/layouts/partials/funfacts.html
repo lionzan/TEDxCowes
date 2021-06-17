@@ -12,11 +12,7 @@
 			<div class="col-lg-3 col-md-6 col-12 text-center wow fadeInDown" data-wow-duration="500ms">
 				<div class="counters-item">
 					<i class="{{ .icon }}"></i>
-          {{ if eq .title "Days to Go" }}
-					<span class="count" data-count="{{ time ( int now ) }}">{{ time ( int now ) }}</span>
-          {{ else }}
 					<span class="count" data-count="{{ .count }}">0</span>
-          {{ end }}
 					<h3>{{ .title | markdownify }}</h3>
 				</div>
 			</div>
