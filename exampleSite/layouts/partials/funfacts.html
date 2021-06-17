@@ -13,7 +13,7 @@
 				<div class="counters-item">
 					<i class="{{ .icon }}"></i>
           {{ if eq .title "Days to Go" }}
-					<span class="count" data-count="{{ now }}">0</span>
+					<span class="count" data-count="{{ time ( int now ) }}">0</span>
           {{ else }}
 					<span class="count" data-count="{{ .count }}">0</span>
           {{ end }}
