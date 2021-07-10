@@ -84,14 +84,8 @@ link = "plugins/google-map/map.js"
 enable = false
 preloader = "images/logo.png"
 [[params.social]]
-icon = "ti-facebook"
-link = "https://facebook.com/tedxcowes"
-[[params.social]]
 icon = "ti-twitter-alt"
 link = "https://twitter.com/tedxcowes"
 [[params.social]]
 icon = "ti-youtube"
 link = "https://youtube.com/tedxcowes"
-[[params.social]]
-icon = "ti-linkedin"
-link = "https://linkedin.com/li/tedxcowes"
