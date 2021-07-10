@@ -1,7 +1,7 @@
 +++
 author = ""
 date = 2021-06-30T00:00:00Z
-description = "Coming Soon – Register to Attend"
+description = "Coming Soon – Register here to attend"
 image = "/images/attend-antenna-fdv1baknkeo-unsplash.jpeg"
 image_webp = ""
 title = "Attend"
