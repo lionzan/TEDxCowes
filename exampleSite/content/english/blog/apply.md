@@ -2,7 +2,7 @@
 author = ""
 date = ""
 description = "Coming soon – Apply here as a Speaker | Startup | Sponsor"
-image = "/images/TEDx_logo_BLK_RGB_3650 500px.png"
+image = "/images/raise-hand-ryunosuke-kikuno-rfane7txve0-unsplash.jpeg"
 image_webp = ""
 title = "Apply"
 
