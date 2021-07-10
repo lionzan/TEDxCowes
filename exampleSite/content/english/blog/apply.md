@@ -1,6 +1,6 @@
 +++
 author = ""
-date = ""
+date = 2021-06-26T23:00:00Z
 description = "Coming soon – Apply here as a Speaker | Startup | Sponsor"
 image = "/images/raise-hand-ryunosuke-kikuno-rfane7txve0-unsplash.jpeg"
 image_webp = ""
