@@ -9,4 +9,8 @@ title = "Sponsors and Partners"
 +++
 ### Our Sponsors:
 
+TBD
+
 ### Our Partners:
+
+TBD
