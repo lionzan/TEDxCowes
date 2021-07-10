@@ -7,7 +7,9 @@ image_webp = ""
 title = "Apply"
 
 +++
-Apply here as a:
+### In preparation...
+
+Be patient! From this page you will be able to apply as a:
 
 * Speaker
 * Startup
