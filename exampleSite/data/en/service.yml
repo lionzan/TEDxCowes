@@ -1,6 +1,6 @@
 ---
 service:
-  enable: true
+  enable: false
   title: Event Sections
   service_item:
   - name: Online
