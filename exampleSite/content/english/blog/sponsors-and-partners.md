@@ -2,7 +2,7 @@
 author = ""
 date = ""
 description = "Coming Soon – Our Sponsors and Partners"
-image = "/images/TEDx_logo_BLK_RGB_3650 500px.png"
+image = "/images/thankyou-mod-junior-moran-hrejyrtbdrk-unsplash.jpeg"
 image_webp = ""
 title = "Sponsors and Partners"
 
