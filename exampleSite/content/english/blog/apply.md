@@ -7,10 +7,10 @@ image_webp = ""
 title = "Apply"
 
 +++
-### In preparation...
+### Apply Here as Speaker, Sponsor or Startup
 
-Be patient! From this page you will be able to apply as a:
+Just follow the link to the relevant form, looking forward to hearing from you!
 
-* Speaker
-* Startup
-* Sponsor
+* [Speaker](https://docs.google.com/forms/d/e/1FAIpQLSeqY0hZAerXLE9W9h-FFKsWMYPcsfCPeIOUjcCSEAB8agoy4w/viewform)
+* Sponsor (In preparation)
+* Startup (In preparation)
