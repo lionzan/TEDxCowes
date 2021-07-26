@@ -1,7 +1,7 @@
 +++
 author = ""
 date = 2021-06-29T23:00:00Z
-description = "Apply here as a Speaker"
+description = "Apply here as a Speaker!"
 image = "/images/raise-hand-ryunosuke-kikuno-rfane7txve0-unsplash.jpeg"
 image_webp = ""
 title = "Apply"
