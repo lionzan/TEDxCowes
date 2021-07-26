@@ -8,7 +8,7 @@ themesDir = "../.."
 title = "TEDxCowes"
 [Languages.en]
 contentDir = "content/english"
-copyright = "This independent TEDx event is operated under license from TED.\n\nCopyright &copy; 2021 Leonardo Zangrando. Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
+copyright = "This independent TEDx event is operated under license from TED.\n\nCopyright &copy; 2021 TEDxCowes and Leonardo Zangrando. Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
 home = "Home"
 languageCode = "en-us"
 languageName = "En"
@@ -42,10 +42,11 @@ name = "contact"
 url = "#contact"
 weight = 7
 [params]
-author = "Leonardo Zangrando"
+author = "TEDxCowes Team"
 description = "TEDx is a program of local, self-organized events that bring people together to share a TED-like experience. Our event is called TEDxCowes, where x = independently organized TED event. "
 google_analytics_id = ""
 logo = "images/logo.png"
+ogimage = "images/landing page image.png"
 post_share = true
 [params.cookies]
 enable = false
