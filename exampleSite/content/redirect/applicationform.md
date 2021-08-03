@@ -1,8 +1,8 @@
 +++
 draft = true
-date = 2020-05-27T16:26:14+10:00
+date = 2021-08-03T09:26:14+1:00
 type = "redirects"
-slug = "test-my-redirect"
+slug = "applicationform"
 redirect = "https://docs.google.com/forms/d/e/1FAIpQLSeqY0hZAerXLE9W9h-FFKsWMYPcsfCPeIOUjcCSEAB8agoy4w/viewform"
 +++
 CONTENT NOT RENDERED
