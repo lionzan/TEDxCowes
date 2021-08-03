@@ -7,7 +7,7 @@ image_webp = ""
 title = "Apply"
 
 +++
-### Apply Here to be part of TEDxCowes!
+### Apply Here to Be Part of TEDxCowes!
 
 We opened the applications for Speakers, Sponsors, Startups and Volunteers to help us run the event. Apply using this [Form](https://docs.google.com/forms/d/e/1FAIpQLSeqY0hZAerXLE9W9h-FFKsWMYPcsfCPeIOUjcCSEAB8agoy4w/viewform) or through the links below:
 
