@@ -2,7 +2,6 @@
 author = "Leonardo Zangrando"
 date = 2021-08-05T23:00:00Z
 description = "TEDxCowes interview on Cowes Live radio"
-draft = true
 image = "/images/20210729_141114.jpeg"
 image_webp = ""
 title = "Interview on Cowes Live radio"
