@@ -7,7 +7,7 @@ image_webp = ""
 title = "Interview on Cowes Live radio"
 
 +++
-Today we got an interview with [Cowes Live](https://www.coweslive.co.uk/) radio, the official radio covering [Cowes Week](http://www.cowesweek.co.uk/web/code/php/main_c.php?map=cw21&ui=cw4&style=std&override=&section=home) regattas and events.
+Today we got an interview with Mike Cox of [Cowes Live](https://www.coweslive.co.uk/) radio, the official radio covering [Cowes Week](http://www.cowesweek.co.uk/web/code/php/main_c.php?map=cw21&ui=cw4&style=std&override=&section=home) regattas and events.
 
 Hear about TEDxCowes from Tim Devlin, vice Commodore of the [Island Sailing Club](https://www.islandsc.org.uk/), where the event will be held on 4 November, Gavin Ford, chairperson at [Cowes Business Association](https://www.cowesbusiness.org.uk/), and Leonardo Zangrando, organiser of [TEDxCowes](tedxcowes.com).
 
