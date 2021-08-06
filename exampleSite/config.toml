@@ -85,6 +85,9 @@ link = "plugins/google-map/map.js"
 enable = false
 preloader = "images/logo.png"
 [[params.social]]
+icon = "ti-soundcloud"
+link = "https://soundcloud.com/tedxcowes"
+[[params.social]]
 icon = "ti-linkedin"
 link = "https://www.linkedin.com/company/tedxcowes/"
 [[params.social]]
