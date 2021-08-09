@@ -13,7 +13,7 @@ team:
     social:
     - icon: ti-linkedin
       link: https://www.linkedin.com/in/joshuaspodek
-    - icon: ti-twitter
+    - icon: ti-twitter-alt
       link: https://twitter.com/spodek
     - icon: ti-youtube
       link: https://joshuaspodek.com/tedx
@@ -28,7 +28,7 @@ team:
     social:
     - icon: ti-linkedin
       link: https://www.linkedin.com/in/vincent-doumeizel/
-    - icon: ti-twitter
+    - icon: ti-twitter-alt
       link: https://twitter.com/Doumeizel
     - icon: ti-youtube
       link: https://www.youtube.com/playlist?list=PLTRvR9Pd7eExXn8EYsI9Zgc-0Q4XXZqeK
