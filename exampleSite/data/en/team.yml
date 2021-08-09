@@ -11,7 +11,7 @@ team:
       podcast, #1 bestselling author of Initiative and Leadership Step by Step, professor
       at NYU, and leadership coach.'
     social:
-    - icon: ti-twitter-light
+    - icon: ti-twitter
       link: https://twitter.com/spodek
     - icon: ti-linkedin
       link: https://www.linkedin.com/in/joshuaspodek
@@ -28,7 +28,7 @@ team:
     social:
     - icon: ti-youtube
       link: https://www.youtube.com/playlist?list=PLTRvR9Pd7eExXn8EYsI9Zgc-0Q4XXZqeK
-    - icon: ti-twitter-light
+    - icon: ti-twitter
       link: https://twitter.com/Doumeizel
     - icon: ti-linkedin
       link: https://www.linkedin.com/in/vincent-doumeizel/
