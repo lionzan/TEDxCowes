@@ -1,6 +1,6 @@
 ---
 team:
-  enable: false
+  enable: true
   title: Our Speakers
   team_member:
   - name: Joshua Spodek
@@ -22,11 +22,9 @@ team:
     image: "/images/vincentdoumeizelpic.jpeg"
     designation: Senior Advisor United Nations Global Compact / Food Programme Director
       Lloyd's Register Foundation
-    content: With 20 years experience in the Food Industry, Vincent is now Senior
-      Adviser at United Nations Global Compact as well as director for the Food Programme
-      for the Lloyd’s Register Foundation. Vincent led and released the “Seaweed Manifesto”
-      in a call to scale up the seaweed industry in order to address some of the world
-      most important challenges.
+    content: With 20 years experience in the Food Industry, Vincent led and released
+      the “Seaweed Manifesto” in a call to scale up the seaweed industry in order
+      to address some of the world most important challenges.
     social:
     - icon: ti-youtube
       link: https://www.youtube.com/playlist?list=PLTRvR9Pd7eExXn8EYsI9Zgc-0Q4XXZqeK
