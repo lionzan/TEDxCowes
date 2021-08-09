@@ -13,4 +13,6 @@ TBD
 
 ### Our Partners:
 
-TBD
+[Island Sailing Club](https://islandsc.org.uk)
+
+[Cowes Business Association](cowesbusiness.org.uk)
