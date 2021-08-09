@@ -3,6 +3,20 @@ team:
   enable: false
   title: Our Speakers
   team_member:
+  - name: Joshua Spodek
+    image_webp: ''
+    image: ''
+    designation: Author and Host, This Sustainable Life
+    content: 'Joshua Spodek PhD MBA hosts the award-winning This Sustainable Life
+      podcast, #1 bestselling author of Initiative and Leadership Step by Step, professor
+      at NYU, and leadership coach.'
+    social:
+    - icon: ti-twitter-light
+      link: https://twitter.com/spodek
+    - icon: ti-linkedin
+      link: https://www.linkedin.com/in/joshuaspodek
+    - icon: ti-youtube
+      link: https://joshuaspodek.com/tedx
   - name: Vincent Doumeizel
     image_webp: ''
     image: "/images/vincentdoumeizelpic.jpeg"
@@ -10,14 +24,9 @@ team:
       Lloyd's Register Foundation
     content: With 20 years experience in the Food Industry, Vincent is now Senior
       Adviser at United Nations Global Compact as well as director for the Food Programme
-      for the Lloyd’s Register Foundation. Vincent leads the charitable objectives
-      of the Foundation through the funding of innovative projects in the food supply
-      chain. Partnering with UN, FAO, The World Bank, WWF, and large brands, Vincent
-      led and released the “Seaweed Manifesto” in a call to scale up the seaweed industry
-      in order to address some of the world most important challenges (hunger, climate
-      change, pollution, poverty etc..). Vincent is now co-leading the first international
-      platform for Seaweed Stakeholders, the Safe Seaweed Coalition and is also representing
-      UN Global Compact at the UN Food System Summit and COP26
+      for the Lloyd’s Register Foundation. Vincent led and released the “Seaweed Manifesto”
+      in a call to scale up the seaweed industry in order to address some of the world
+      most important challenges.
     social:
     - icon: ti-youtube
       link: https://www.youtube.com/playlist?list=PLTRvR9Pd7eExXn8EYsI9Zgc-0Q4XXZqeK
