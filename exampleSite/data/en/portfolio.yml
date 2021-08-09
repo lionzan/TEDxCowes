@@ -1,26 +1,26 @@
 ---
 portfolio:
-  enable: false
-  title: Speakers List
+  enable: true
+  title: Sponsors & Partners
   portfolio_item:
-  - name: Speaker 3
-    image: "/images/team/team-3.jpg"
+  - name: Cowes Business Association
+    image: https://www.cowesbusiness.org.uk/wp-content/uploads/2020/12/3x_Cowes_Business_Association_Logomark_RGB_08-20..png
     image_webp: ''
     categories:
-    - Unsung Heroes
-    content: Unsung hero!
-    link: ''
-  - name: Speaker 2
-    image: "/images/team/team-2.jpg"
+    - Partner
+    content: Supporting Cowes businesses and promoting Cowes so that it is recognised
+      as a thriving, resilient, dynamic and prosperous place to live, work and visit.
+    link: https://www.cowesbusiness.org.uk/
+  - name: Island Sailing Club
+    image: https://boxstuff-development-thumbnails.s3.amazonaws.com/587230_orig.png
     image_webp: ''
     categories:
-    - Leaders
-    content: A Leader!
-    link: ''
-  - name: Speaker 1
-    image: "/images/team/team-1.jpg"
-    image_webp: ''
-    categories:
-    - startups
-    content: This is the first speaker
-    link: ''
+    - Partner
+    - Sponsor
+    content: There's nowhere better than Cowes for sailing and water activities, it's
+      the home of Cowes Week, the oldest and biggest sailing regatta in the world.  The
+      Island Sailing Club sits in the heart of Cowes and is the organiser of the annual
+      Round the Island Race, sailing's answer to the London Marathon as over 1000
+      boats, crewed by some of the biggest names in sailing as well as keen amateur
+      sailors and families race around the Isle of Wight.
+    link: https://islandsc.org.uk
