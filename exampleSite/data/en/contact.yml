@@ -1,20 +1,18 @@
 ---
 contact:
-  enable: false
+  enable: true
   title: Contact Us
   subtitle: Contact Details
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam, vero,
-    provident, eum eligendi blanditiis ex explicabo vitae nostrum facilis asperiores
-    dolorem illo officiis ratione vel fugiat dicta laboriosam labore adipisci.
+  content: ''
   contact_list:
   - icon: ti-location-pin
-    info: Cowes, Isle of Wight, UK
+    info: Island Sailing Club, Cowes, Isle of Wight, UK
   - icon: ti-mobile
     info: 'Phone: +44 (0)747 208 1999'
   - icon: ti-email
     info: 'Email: xCowes@gmail.com'
   contact_form:
-    enable: true
+    enable: false
     form_action: "#"
     name: Your Name
     email: Your Email
