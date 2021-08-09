@@ -1,6 +1,6 @@
 ---
 portfolio:
-  enable: true
+  enable: false
   title: Speakers List
   portfolio_item:
   - name: Speaker 3
