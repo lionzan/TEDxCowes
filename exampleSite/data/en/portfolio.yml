@@ -1,15 +1,8 @@
 ---
 portfolio:
   enable: true
-  title: Sponsors & Partners
+  title: Sponsors, Partners & Volunteers
   portfolio_item:
-  - name: Cowes Business Association
-    image: https://www.cowesbusiness.org.uk/wp-content/uploads/2020/12/3x_Cowes_Business_Association_Logomark_RGB_08-20..png
-    image_webp: ''
-    categories:
-    - Partner
-    content: ''
-    link: https://www.cowesbusiness.org.uk/
   - name: Island Sailing Club
     image: https://boxstuff-development-thumbnails.s3.amazonaws.com/587230_orig.png
     image_webp: ''
@@ -18,3 +11,18 @@ portfolio:
     - Sponsor
     content: ''
     link: https://islandsc.org.uk
+  - name: Cowes Business Association
+    image: https://www.cowesbusiness.org.uk/wp-content/uploads/2020/12/3x_Cowes_Business_Association_Logomark_RGB_08-20..png
+    image_webp: ''
+    categories:
+    - Partner
+    content: ''
+    link: https://www.cowesbusiness.org.uk/
+  - name: Leonardo Zangrando
+    image: "/images/lz-imo-1000px.jpg"
+    image_webp: ''
+    categories:
+    - Volunteer
+    - Management
+    content: ''
+    link: ''
