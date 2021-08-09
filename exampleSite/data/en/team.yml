@@ -5,7 +5,7 @@ team:
   team_member:
   - name: Joshua Spodek
     image_webp: ''
-    image: ''
+    image: "/images/joshuaspodek_roof06_web.jpeg"
     designation: Author and Host, This Sustainable Life
     content: 'Joshua Spodek PhD MBA hosts the award-winning This Sustainable Life
       podcast, #1 bestselling author of Initiative and Leadership Step by Step, professor
@@ -32,19 +32,3 @@ team:
       link: https://twitter.com/Doumeizel
     - icon: ti-linkedin
       link: https://www.linkedin.com/in/vincent-doumeizel/
-  - name: Leonardo Zangrando
-    image_webp: ''
-    image: "/images/lz-imo-1000px.jpg"
-    designation: Lead Organiser
-    content: 'Leonardo is a Naval Architect with a life-long passion for the Ocean
-      as a sailor, swimmer, free-diver and comes from a family with 4 generations
-      of seafarers tradition. He spearheaded the development of Startup Wharf, the
-      global ecosystem of maritime startups, and coaches leaders to multiply their
-      impact on their own lives, their businesses and the Planet. '
-    social:
-    - icon: ti-youtube
-      link: https://youtube.com/leonardozangrando
-    - icon: ti-twitter-alt
-      link: https://twitter.com/lionzan
-    - icon: ti-linkedin
-      link: https://linkedin.com/in/leonardozangrando
