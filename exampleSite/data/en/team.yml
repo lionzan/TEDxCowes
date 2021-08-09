@@ -11,10 +11,10 @@ team:
       podcast, #1 bestselling author of Initiative and Leadership Step by Step, professor
       at NYU, and leadership coach.'
     social:
-    - icon: ti-twitter
-      link: https://twitter.com/spodek
     - icon: ti-linkedin
       link: https://www.linkedin.com/in/joshuaspodek
+    - icon: ti-twitter
+      link: https://twitter.com/spodek
     - icon: ti-youtube
       link: https://joshuaspodek.com/tedx
   - name: Vincent Doumeizel
@@ -26,9 +26,9 @@ team:
       the “Seaweed Manifesto” in a call to scale up the seaweed industry in order
       to address some of the world most important challenges.
     social:
-    - icon: ti-youtube
-      link: https://www.youtube.com/playlist?list=PLTRvR9Pd7eExXn8EYsI9Zgc-0Q4XXZqeK
-    - icon: ti-twitter
-      link: https://twitter.com/Doumeizel
     - icon: ti-linkedin
       link: https://www.linkedin.com/in/vincent-doumeizel/
+    - icon: ti-twitter
+      link: https://twitter.com/Doumeizel
+    - icon: ti-youtube
+      link: https://www.youtube.com/playlist?list=PLTRvR9Pd7eExXn8EYsI9Zgc-0Q4XXZqeK
