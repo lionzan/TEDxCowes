@@ -1,7 +1,7 @@
 +++
-author = ""
+author = "TEDxCowes team"
 date = 2021-06-28T23:00:00Z
-description = "Coming Soon – Our Speakers"
+description = "Our Speakers"
 image = "/images/speaker-priscilla-du-preez-q7wgvnbuwj0-unsplash.jpeg"
 image_webp = ""
 title = "Speakers"
@@ -28,3 +28,5 @@ Are you from the UK and have an **_Idea Worth Spreading_** _on Ocean Sustainabil
 * [Josh Spodek](https://www.linkedin.com/in/joshuaspodek/) on Living Sustainably
 * [Rolf-Ørjan Høgset](https://www.linkedin.com/in/rolf-%C3%B8rjan-h%C3%B8gset-5b81a274/) on Ocean Plastic Cleanup
 * TBD on electric boating
+
+Check confirmed speakers' profiles [on the main page](https://www.tedxcowes.com/#team)!
