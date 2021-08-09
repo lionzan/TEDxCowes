@@ -15,7 +15,7 @@ TBD
 
 ##### [Island Sailing Club](https://islandsc.org.uk)
 
-[<img src="https://boxstuff-development-thumbnails.s3.amazonaws.com/587230_orig.png" alt="Island Sailing Club" width="200"/>](https://islandsc.org.uk)
+[![Island Sailing Club](https://boxstuff-development-thumbnails.s3.amazonaws.com/587230_orig.png)](https://islandsc.org.uk)
 
 ##### [Cowes Business Association](cowesbusiness.org.uk)
 
