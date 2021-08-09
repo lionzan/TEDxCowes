@@ -17,4 +17,6 @@ TBD
 <br/>
 [Island Sailing Club](https://islandsc.org.uk)
 
+[![Cowes Business Association](https://www.cowesbusiness.org.uk/wp-content/uploads/2020/12/3x_Cowes_Business_Association_Logomark_RGB_08-20..png)](cowesbusiness.org.uk)
+<br/>
 [Cowes Business Association](cowesbusiness.org.uk)
