@@ -1,4 +1,4 @@
-baseURL = "https://examplesite.com"
+baseURL = "https://tedxcowes.com"
 disableLanguages = ["French"]
 disqusShortname = ""
 paginate = "6"
@@ -27,10 +27,6 @@ url = "#services"
 weight = 2
 [[Languages.en.menu.main]]
 name = "speakers"
-url = "#portfolio"
-weight = 3
-[[Languages.en.menu.main]]
-name = "team"
 url = "#team"
 weight = 4
 [[Languages.en.menu.main]]
