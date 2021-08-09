@@ -1,8 +1,30 @@
 ---
 team:
   enable: false
-  title: Our Team
+  title: Our Speakers
   team_member:
+  - name: Vincent Doumeizel
+    image_webp: ''
+    image: ''
+    designation: Senior Advisor United Nations Global Compact / Food Programme Director
+      Lloyd's Register Foundation
+    content: With 20 years experience in the Food Industry, Vincent is now Senior
+      Adviser at United Nations Global Compact as well as director for the Food Programme
+      for the Lloyd’s Register Foundation. Vincent leads the charitable objectives
+      of the Foundation through the funding of innovative projects in the food supply
+      chain. Partnering with UN, FAO, The World Bank, WWF, and large brands, Vincent
+      led and released the “Seaweed Manifesto” in a call to scale up the seaweed industry
+      in order to address some of the world most important challenges (hunger, climate
+      change, pollution, poverty etc..). Vincent is now co-leading the first international
+      platform for Seaweed Stakeholders, the Safe Seaweed Coalition and is also representing
+      UN Global Compact at the UN Food System Summit and COP26
+    social:
+    - icon: ti-youtube
+      link: https://www.youtube.com/playlist?list=PLTRvR9Pd7eExXn8EYsI9Zgc-0Q4XXZqeK
+    - icon: ti-twitter-light
+      link: https://twitter.com/Doumeizel
+    - icon: ti-linkedin
+      link: https://www.linkedin.com/in/vincent-doumeizel/
   - name: Leonardo Zangrando
     image_webp: ''
     image: "/images/lz-imo-1000px.jpg"
@@ -19,69 +41,3 @@ team:
       link: https://twitter.com/lionzan
     - icon: ti-linkedin
       link: https://linkedin.com/in/leonardozangrando
-  - name: Abul Mal Muhit
-    image_webp: images/team/team-1.webp
-    image: images/team/team-1.jpg
-    designation: Curator
-    content: This person is part of the curation team who decides who will be speaking
-      at the event. The curation team provides different perspectives when choosing
-      speakers.
-    social:
-    - icon: ti-facebook
-      link: "#"
-    - icon: ti-twitter-alt
-      link: "#"
-    - icon: ti-linkedin
-      link: "#"
-    - icon: ti-dribbble
-      link: "#"
-  - name: Frank Miller
-    image_webp: images/team/team-2.webp
-    image: images/team/team-2.jpg
-    designation: Curator
-    content: This person is part of the curation team who decides who will be speaking
-      at the event. The curation team provides different perspectives when choosing
-      speakers.
-    social:
-    - icon: ti-facebook
-      link: "#"
-    - icon: ti-twitter-alt
-      link: "#"
-    - icon: ti-linkedin
-      link: "#"
-    - icon: ti-dribbble
-      link: "#"
-  - name: Michael Jonson
-    image_webp: images/team/team-3.webp
-    image: images/team/team-3.jpg
-    designation: Event Manager
-    content: This person manages most of your event’s day-of logistics, and is responsible
-      for creating a “TEDx experience” for your guests. They serve as the contact
-      with your venue’s staff, manage day-of event activities outside of the main
-      stage, and are often in charge of ticketing and registration needs.
-    social:
-    - icon: ti-facebook
-      link: "#"
-    - icon: ti-twitter-alt
-      link: "#"
-    - icon: ti-linkedin
-      link: "#"
-    - icon: ti-dribbble
-      link: "#"
-  - name: Mo. Kha. Alamgir
-    image_webp: images/team/team-4.webp
-    image: images/team/team-4.jpg
-    designation: Executive Producer
-    content: Your team’s executive producer will lead all production and planning
-      for the day of the event. They oversee all of the roles happening on the day
-      of your event related to content production, stage management, technology, and
-      video.
-    social:
-    - icon: ti-facebook
-      link: "#"
-    - icon: ti-twitter-alt
-      link: "#"
-    - icon: ti-linkedin
-      link: "#"
-    - icon: ti-dribbble
-      link: "#"
