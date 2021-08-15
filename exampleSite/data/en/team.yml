@@ -10,10 +10,12 @@ team:
     content: Leading expert on the development and deployment of wind-assist and primary
       wind propulsion systems for commercial shipping worldwide.
     social:
-    - icon: ti-twitter-alt
-      link: https://twitter.com/iwsa_secretary
     - icon: ti-linkedin
       link: https://www.linkedin.com/in/gavin-allwright-bb20531/
+    - icon: ti-twitter-alt
+      link: https://twitter.com/iwsa_secretary
+    - icon: ti-youtube
+      link: https://www.youtube.com/playlist?list=PLTRvR9Pd7eEzSX-mj-LAiTZulv9dM7mmc
   - name: Joshua Spodek
     image_webp: ''
     image: "/images/joshuaspodek_roof06_web.jpeg"
