@@ -3,6 +3,17 @@ team:
   enable: true
   title: Our Speakers
   team_member:
+  - name: Gavin Allwright
+    image_webp: ''
+    image: https://global-uploads.webflow.com/5d8a1b0693c92f1826bf5dde/5eb558d14dc13a69df6e0f14_Gavin%2520Allwright_photo.jpeg
+    designation: Secretary General of the International Windship Association (IWSA)
+    content: Leading expert on the development and deployment of wind-assist and primary
+      wind propulsion systems for commercial shipping worldwide.
+    social:
+    - icon: ti-twitter-alt
+      link: https://twitter.com/iwsa_secretary
+    - icon: ti-linkedin
+      link: https://www.linkedin.com/in/gavin-allwright-bb20531/
   - name: Joshua Spodek
     image_webp: ''
     image: "/images/joshuaspodek_roof06_web.jpeg"
