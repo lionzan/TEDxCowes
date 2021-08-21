@@ -3,6 +3,19 @@ team:
   enable: true
   title: Our Speakers
   team_member:
+  - name: Rolf-Ørjan Høgset
+    image_webp: ''
+    image: ''
+    designation: Team Leader / skipper / founder In The Same Boat
+    content: Career in technology and communication, founded several businesses in
+      the maritime sector and marketing industry, including being recognized as a
+      commercial photographer and film producer, but changed side to environmental
+      work 5 years ago, founded In The Same Boat and became a full time beach cleaner.
+    social:
+    - icon: ti-facebook
+      link: www.facebook.om/inthesameboat.eco
+    - icon: ti-youtube
+      link: https://www.youtube.com/watch?v=j6fD-EhAUns&ab_channel=InTheSameBoat
   - name: Gavin Allwright
     image_webp: ''
     image: "/images/gavinallwright.jpeg"
