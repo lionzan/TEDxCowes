@@ -5,7 +5,7 @@ team:
   team_member:
   - name: Rolf-Ørjan Høgset
     image_webp: ''
-    image: "/images/rolf.jpeg"
+    image: "/images/Rolf750x600.jpg"
     designation: Team Leader / skipper / founder In The Same Boat
     content: Career in technology and communication, founded several businesses in
       the maritime sector and marketing industry, including being recognized as a
@@ -18,7 +18,7 @@ team:
       link: https://www.youtube.com/watch?v=j6fD-EhAUns&ab_channel=InTheSameBoat
   - name: Gavin Allwright
     image_webp: ''
-    image: "/images/Gavin.jpg"
+    image: "/images/Gavin750x600.jpg"
     designation: Secretary General of the International Windship Association (IWSA)
     content: Leading expert on the development and deployment of wind-assist and primary
       wind propulsion systems for commercial shipping worldwide.
@@ -31,7 +31,7 @@ team:
       link: https://www.youtube.com/playlist?list=PLTRvR9Pd7eEzSX-mj-LAiTZulv9dM7mmc
   - name: Joshua Spodek
     image_webp: ''
-    image: "/images/Josh.jpg"
+    image: "/images/Josh750x600.jpg"
     designation: Author and Host, This Sustainable Life
     content: 'Joshua Spodek PhD MBA hosts the award-winning This Sustainable Life
       podcast, #1 bestselling author of Initiative and Leadership Step by Step, professor
@@ -45,7 +45,7 @@ team:
       link: https://joshuaspodek.com/tedx
   - name: Vincent Doumeizel
     image_webp: ''
-    image: "/images/Vincent.jpg"
+    image: "/images/Vincent750x600.jpg"
     designation: Senior Advisor United Nations Global Compact / Food Programme Director
       Lloyd's Register Foundation
     content: With 20 years experience in the Food Industry, Vincent led and released
