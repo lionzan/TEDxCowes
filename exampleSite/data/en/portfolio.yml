@@ -1,6 +1,6 @@
 ---
 portfolio:
-  enable: true
+  enable: false
   title: Sponsors, Partners & Volunteers
   portfolio_item:
   - name: Island Sailing Club
