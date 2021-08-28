@@ -3,6 +3,15 @@ team:
   enable: true
   title: Our Speakers
   team_member:
+  - name: Andrew Hunt
+    image_webp: ''
+    image: ''
+    designation: Subsea Engineer and Diving Expedition Leader
+    content: An expert in subsea engineering and marine renewables, Andrew is a keen
+      sport diver with a diving 'career' spanning 30 years and is passionate about
+      UK diving. His vision is to engineer a sustainable future and turn the Solent
+      blue.
+    social: ''
   - name: Rolf-Ørjan Høgset
     image_webp: ''
     image: "/images/Rolf750x600.jpg"
