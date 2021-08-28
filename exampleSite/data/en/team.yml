@@ -5,13 +5,15 @@ team:
   team_member:
   - name: Andrew Hunt
     image_webp: ''
-    image: ''
+    image: "/images/andrew750x600.jpg"
     designation: Subsea Engineer and Diving Expedition Leader
     content: An expert in subsea engineering and marine renewables, Andrew is a keen
       sport diver with a diving 'career' spanning 30 years and is passionate about
       UK diving. His vision is to engineer a sustainable future and turn the Solent
       blue.
-    social: ''
+    social:
+    - icon: ti-linkedin
+      link: https://www.linkedin.com/in/andrew-hunt-b8b1068b/
   - name: Rolf-Ørjan Høgset
     image_webp: ''
     image: "/images/Rolf750x600.jpg"
