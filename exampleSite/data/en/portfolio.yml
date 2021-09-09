@@ -3,15 +3,15 @@ portfolio:
   enable: true
   title: Sponsors, Partners & Volunteers
   portfolio_item:
-  - name: Joe Redston
+  - name: Joe Redston – Co-organiser
     image: "/images/joe250x250.jpg"
     image_webp: ''
     categories:
     - Volunteer
     - Management
-    content: Helping business owners develop the human skills they need to become
-      business leaders.
-    link: ''
+    content: Business mentor and realistic optimist. Helping business owners develop
+      the human skills they need to become business leaders.
+    link: https://www.linkedin.com/in/joe-redston/
   - name: Island Sailing Club
     image: "/images/isccrop250x250.png"
     image_webp: ''
@@ -27,12 +27,12 @@ portfolio:
     - Partner
     content: ''
     link: https://www.cowesbusiness.org.uk/
-  - name: Leonardo Zangrando
+  - name: Leonardo Zangrando - Organiser
     image: "/images/leonardo250x250.jpg"
     image_webp: ''
     categories:
     - Volunteer
     - Management
-    content: TEDxCowes Organiser. Supporting Leaders go beyond their past successes
+    content: Personal Impact Multiplier. Supporting Leaders go beyond their past successes
       and multiply their impact on their personal life, their business and the Planet.
     link: https://leonardo.zangrando.com
