@@ -1,8 +1,17 @@
 ---
 portfolio:
-  enable: false
+  enable: true
   title: Sponsors, Partners & Volunteers
   portfolio_item:
+  - name: Joe Redston
+    image: "/images/joe250x250.jpg"
+    image_webp: ''
+    categories:
+    - Volunteer
+    - Management
+    content: Helping business owners develop the human skills they need to become
+      business leaders.
+    link: ''
   - name: Island Sailing Club
     image: "/images/isccrop250x250.png"
     image_webp: ''
