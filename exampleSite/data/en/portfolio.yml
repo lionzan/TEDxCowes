@@ -4,7 +4,7 @@ portfolio:
   title: Sponsors, Partners & Volunteers
   portfolio_item:
   - name: Island Sailing Club
-    image: https://boxstuff-development-thumbnails.s3.amazonaws.com/587230_orig.png
+    image: "/images/isc400x400.png"
     image_webp: ''
     categories:
     - Partner
