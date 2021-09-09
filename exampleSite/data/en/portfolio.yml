@@ -4,7 +4,7 @@ portfolio:
   title: Sponsors, Partners & Volunteers
   portfolio_item:
   - name: Island Sailing Club
-    image: "/images/isc400x400.png"
+    image: "/images/isccrop250x250.png"
     image_webp: ''
     categories:
     - Partner
@@ -12,7 +12,7 @@ portfolio:
     content: ''
     link: https://islandsc.org.uk
   - name: Cowes Business Association
-    image: https://www.cowesbusiness.org.uk/wp-content/uploads/2020/12/3x_Cowes_Business_Association_Logomark_RGB_08-20..png
+    image: "/images/cba250x250.png"
     image_webp: ''
     categories:
     - Partner
