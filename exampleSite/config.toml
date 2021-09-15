@@ -81,6 +81,9 @@ link = "plugins/google-map/map.js"
 enable = false
 preloader = "images/logo.png"
 [[params.social]]
+icon = "ti-instagram"
+link = "https://instagram.com/tedxcowes"
+[[params.social]]
 icon = "ti-soundcloud"
 link = "https://soundcloud.com/tedxcowes"
 [[params.social]]
@@ -91,4 +94,4 @@ icon = "ti-twitter-alt"
 link = "https://twitter.com/tedxcowes"
 [[params.social]]
 icon = "ti-youtube"
-link = "https://www.youtube.com/channel/UCDCjgTFqWZFSL1QsRAUE7sA"
+link = "https://www.youtube.com/channel/UCutGYF6-bSlSuZwldGg7_ZQ"
