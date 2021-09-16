@@ -4,7 +4,7 @@ date = 2021-09-15T23:00:00Z
 description = "You have the power to multiply exponentially your personal impact by taking action"
 image = "/images/lewis-pugh-cannot-dither.jpeg"
 image_webp = ""
-title = "We cannot dither any longer"
+title = "We Cannot Dither Any Longer"
 
 +++
 
