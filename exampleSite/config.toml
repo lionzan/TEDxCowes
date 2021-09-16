@@ -81,6 +81,9 @@ link = "plugins/google-map/map.js"
 enable = false
 preloader = "images/logo.png"
 [[params.social]]
+icon = "ti-facebook"
+link = "https://www.facebook.com/tedxcowes/"
+[[params.social]]
 icon = "ti-instagram"
 link = "https://instagram.com/tedxcowes"
 [[params.social]]
