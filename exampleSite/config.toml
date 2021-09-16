@@ -84,17 +84,17 @@ preloader = "images/logo.png"
 icon = "ti-facebook"
 link = "https://www.facebook.com/tedxcowes/"
 [[params.social]]
-icon = "ti-instagram"
-link = "https://instagram.com/tedxcowes"
-[[params.social]]
-icon = "ti-soundcloud"
-link = "https://soundcloud.com/tedxcowes"
-[[params.social]]
 icon = "ti-linkedin"
 link = "https://www.linkedin.com/company/tedxcowes/"
+[[params.social]]
+icon = "ti-instagram"
+link = "https://instagram.com/tedxcowes"
 [[params.social]]
 icon = "ti-twitter-alt"
 link = "https://twitter.com/tedxcowes"
 [[params.social]]
 icon = "ti-youtube"
 link = "https://www.youtube.com/channel/UCutGYF6-bSlSuZwldGg7_ZQ"
+[[params.social]]
+icon = "ti-soundcloud"
+link = "https://soundcloud.com/tedxcowes"
