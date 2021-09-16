@@ -1,6 +1,6 @@
 +++
 author = "Leonardo Zangrando"
-date = 2021-09-01T11:00:00Z
+date = 2021-09-16T11:00:00Z
 description = "We must stop CONSUMING plastic as a disposable. Plastic can be a great resource, if managed so that it is used time and again and then recycled time and again. There is no room for disposable plastic."
 image = "/images/5-tons-a-day.png"
 image_webp = ""
