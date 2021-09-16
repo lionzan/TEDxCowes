@@ -3,6 +3,15 @@ portfolio:
   enable: true
   title: Sponsors, Partners & Volunteers
   portfolio_item:
+  - name: Gavin Ford
+    image: "/images/gavin.jpeg"
+    image_webp: ''
+    categories:
+    - Volunteer
+    - Management
+    content: Founder of Red Dot IOW | Chairperson at Cowes Business Association |
+      Buy Local Ambassador
+    link: https://www.linkedin.com/in/gavinford/
   - name: Island Sailing Club
     image: "/images/isccrop250x250.png"
     image_webp: ''
