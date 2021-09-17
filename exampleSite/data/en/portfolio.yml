@@ -18,15 +18,6 @@ portfolio:
     - Partner
     content: ''
     link: https://www.cowesbusiness.org.uk/
-  - name: Joe Redston
-    image: "/images/joe250x250.jpg"
-    image_webp: ''
-    categories:
-    - Volunteer
-    - Management
-    content: Helping business owners develop the human skills they need to become
-      business leaders.
-    link: https://www.linkedin.com/in/joe-redston/
   - name: Gavin Ford
     image: "/images/gavin.jpeg"
     image_webp: ''
