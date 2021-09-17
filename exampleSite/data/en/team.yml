@@ -3,6 +3,17 @@ team:
   enable: true
   title: Our Speakers
   team_member:
+  - name: Pierre-André Huglo
+    image_webp: ''
+    image: "/images/pierre-375x300.jpeg"
+    designation: Round the World Solo Sailor, Philosophy Teacher
+    content: Pierre is a high school philosophy teacher, musician, and solo sailor.
+      In 2018-19 he sailed solo non-stop around the world celebrating "La Longue Route"
+    social:
+    - icon: ti-youtube
+      link: https://www.youtube.com/channel/UCjjj3N1aRvWOGZaz1VCEGTg
+    - icon: ti-facebook
+      link: https://www.facebook.com/pierreandre.huglo/
   - name: Andrew Hunt
     image_webp: ''
     image: "/images/andrew750x600.jpg"
