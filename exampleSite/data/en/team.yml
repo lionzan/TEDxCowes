@@ -3,6 +3,20 @@ team:
   enable: true
   title: Our Speakers
   team_member:
+  - name: Kika Mevs
+    image_webp: ''
+    image: "/images/kika750x600.jpg"
+    designation: Live Sustainably and Travel Indefinitely
+    content: Kika Mevs, and her fiancé Dan Deckert, have been sailing on the ocean
+      for the past 7 years on their small electric sailboat UMA. Powered by the sun,
+      wind, and water, their main purpose is to live sustainably and travel indefinitely.
+    social:
+    - icon: ti-youtube
+      link: https://www.youtube.com/c/SailingUma
+    - icon: ti-facebook
+      link: https://www.facebook.com/SailingUma
+    - icon: ti-instagram
+      link: https://www.instagram.com/sailinguma/
   - name: Pierre-André Huglo
     image_webp: ''
     image: "/images/pierre-375x300.jpeg"
