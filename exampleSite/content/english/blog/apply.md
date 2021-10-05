@@ -14,7 +14,7 @@ We opened the applications for Speakers, Sponsors, Startups and Volunteers to he
 * [Speaker](https://docs.google.com/forms/d/e/1FAIpQLSeqY0hZAerXLE9W9h-FFKsWMYPcsfCPeIOUjcCSEAB8agoy4w/viewform?usp=pp_url&entry.836756608=Speaker)
 * [Sponsor Exhibitor](https://docs.google.com/forms/d/e/1FAIpQLSeqY0hZAerXLE9W9h-FFKsWMYPcsfCPeIOUjcCSEAB8agoy4w/viewform?usp=pp_url&entry.836756608=Sponsor+Exhibitor)
 * [Ocean Sustainability Startup](https://docs.google.com/forms/d/e/1FAIpQLSeqY0hZAerXLE9W9h-FFKsWMYPcsfCPeIOUjcCSEAB8agoy4w/viewform?usp=pp_url&entry.836756608=Ocean+Sustainability+Startup)
-* [Performer](https://docs.google.com/forms/d/e/1FAIpQLSeqY0hZAerXLE9W9h-FFKsWMYPcsfCPeIOUjcCSEAB8agoy4w/viewform?usp=pp_url&entry.836756608=Performer)
+* [Performer / Artist](https://docs.google.com/forms/d/e/1FAIpQLSeqY0hZAerXLE9W9h-FFKsWMYPcsfCPeIOUjcCSEAB8agoy4w/viewform?usp=pp_url&entry.836756608=Performer/Artist)
 * [Event Management People](https://docs.google.com/forms/d/e/1FAIpQLSeqY0hZAerXLE9W9h-FFKsWMYPcsfCPeIOUjcCSEAB8agoy4w/viewform?usp=pp_url&entry.836756608=Event+Management+People)
 * [Event Marketing People](https://docs.google.com/forms/d/e/1FAIpQLSeqY0hZAerXLE9W9h-FFKsWMYPcsfCPeIOUjcCSEAB8agoy4w/viewform?usp=pp_url&entry.836756608=Event+Marketing+People "Event Marketing People")
 * [Event Delivery People](https://docs.google.com/forms/d/e/1FAIpQLSeqY0hZAerXLE9W9h-FFKsWMYPcsfCPeIOUjcCSEAB8agoy4w/viewform?usp=pp_url&entry.836756608=Event+Delivery+People)
