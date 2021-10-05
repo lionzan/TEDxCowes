@@ -9,4 +9,10 @@ title = "Attend"
 +++
 ### Register here to attend
 
-Coming Soon
+Tickets for the event are going to become available soon.
+
+#### Do you want to get one now and beat the queues? Yes you can!
+
+Simply head to our [crowdfunding campaign](https://chuffed.org/project/tedxcowes) and become a Supporter!  Just select the "Complimentary Ticket" perk and you're in!
+
+Looking forward to seeing you in person at TEDxCowes!
