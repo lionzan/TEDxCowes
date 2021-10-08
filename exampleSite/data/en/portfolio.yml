@@ -3,12 +3,6 @@ portfolio:
   enable: true
   title: Sponsors, Partners & Volunteers
   portfolio_item:
-  - name: Eat Street
-    image: "/images/eatstreetlarge2-300x198-jpg.jpeg"
-    image_webp: ''
-    categories: ''
-    content: Unique recipes, with modern twists on traditional food
-    link: https://eatstreetiow.co.uk/
   - name: Island Sailing Club
     image: "/images/isccrop250x250.png"
     image_webp: ''
@@ -24,6 +18,12 @@ portfolio:
     - Partner
     content: ''
     link: https://www.cowesbusiness.org.uk/
+  - name: Eat Street
+    image: "/images/eatstreetlarge2-300x198-jpg.jpeg"
+    image_webp: ''
+    categories: ''
+    content: Unique recipes, with modern twists on traditional food
+    link: https://eatstreetiow.co.uk/
   - name: Gavin Ford
     image: "/images/gavin.jpeg"
     image_webp: ''
