@@ -1,8 +1,11 @@
 ---
 service:
-  enable: true
-  title: Event Sections
+  enable: false
+  title: Get Involved!
   service_item:
+  - name: Register to the Streaming
+    icon: ''
+    content: 'Register to get access to the streaming for free! '
   - name: Online
     icon: ti-video-camera
     content: Speakers online
