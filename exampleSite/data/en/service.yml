@@ -3,16 +3,12 @@ service:
   enable: true
   title: Event Sections
   service_item:
+  - name: Get Your Ticket for TEDxCowes
+    icon: ti-ticket
+    content: 'Donate to support the event and get your ticket as a perk. Choose between
+      3 levels of perks: simple ticket, +dinner with the speakers, +seat at the speakers
+      table (limited quantity available)'
   - name: Register to the Streaming
     icon: ti-desktop
     content: Register to watch the streaming live on 4th November from 1pm to 6pm
       GMT
-  - name: Online
-    icon: ti-video-camera
-    content: Speakers online
-  - name: On Stage
-    icon: ti-microphone-alt
-    content: Invited speakers on stage
-  - name: On Water
-    icon: ti-anchor
-    content: Events on the water
