@@ -19,7 +19,7 @@ service:
       table (limited quantities available)'
     buttontext: Get Ticket
     buttonlink: https://chuffed.org/project/tedxcowes/
-  - name: Register to the Streaming
+  - name: Watch the Streaming
     icon: ti-desktop
     content: You cannot attend the event yet you want to watch the speakers live?
       **Donate any amount (even £1 counts!)** and get to watch the event live streaming
