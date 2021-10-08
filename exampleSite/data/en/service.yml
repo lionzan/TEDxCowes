@@ -5,10 +5,10 @@ service:
   service_item:
   - name: Support the Event
     icon: ti-gift
-    content: Donate to support TEDxCowes if you are passionate of Ocean and Sustainability
-      and want to make a difference. TEDxCowes aims to inspire thousands of people
+    content: "**Donate to support TEDxCowes if you are passionate of Ocean and Sustainability
+      and want to make a difference**. TEDxCowes aims to inspire thousands of people
       thanks to the talks of 7 great speakers amplified on the global stage of the
-      TED platform.
+      TED platform."
     buttontext: Donate
     buttonlink: https://chuffed.org/project/tedxcowes/
   - name: Get Your Ticket
