@@ -7,7 +7,8 @@ service:
     icon: ti-gift
     content: Donate to support TEDxCowes if you are passionate of Ocean and Sustainability
       and want to make a difference. TEDxCowes aims to inspire thousands of people
-      thanks to the talks of 7 great speakers and the global stage of the TED platform.
+      thanks to the talks of 7 great speakers amplified on the global stage of the
+      TED platform.
     buttontext: Donate
     buttonlink: https://chuffed.org/project/tedxcowes/
   - name: Get Your Ticket
