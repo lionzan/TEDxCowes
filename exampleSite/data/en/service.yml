@@ -8,14 +8,20 @@ service:
     content: Donate to support TEDxCowes if you are passionate of Ocean and Sustainability
       and want to make a difference. TEDxCowes aims to inspire thousands of people
       thanks to the talks of 7 great speakers and the global stage of the TED platform.
+    buttontext: Donate
+    buttonlink: https://chuffed.org/project/tedxcowes/
   - name: Get Your Ticket
     icon: ti-ticket
     content: 'If you want to be part of the action at TEDxCowes on 4th November, donate
       to support the event and get your ticket as a perk. Choose between 3 levels
       of perks: admission ticket, +dinner with the speakers, +seat at the speakers
+    buttontext: Get a Ticket
+    buttonlink: https://chuffed.org/project/tedxcowes/
       table (limited quantities available)'
   - name: Register to the Streaming
     icon: ti-desktop
     content: You can't be at the event yet you want to hear the speakers live? Donate
       any amount (even £1 will do!) and get to watch the streaming live from 1pm to
       6pm GMT on 4th November.
+    buttontext: Register
+    buttonlink: https://chuffed.org/project/tedxcowes/
