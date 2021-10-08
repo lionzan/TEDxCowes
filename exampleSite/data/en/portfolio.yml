@@ -19,7 +19,7 @@ portfolio:
     content: ''
     link: https://www.cowesbusiness.org.uk/
   - name: Eat Street
-    image: "/images/eatstreet250x250.jpg"
+    image: "/images/eatstreet-250x250.png"
     image_webp: ''
     categories:
     - Partner
