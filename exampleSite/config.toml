@@ -14,27 +14,27 @@ languageCode = "en-us"
 languageName = "En"
 weight = 1
 [[Languages.en.menu.main]]
-name = "apply"
+name = "Apply"
 url = "/blog/apply/"
 weight = "6.5"
 [[Languages.en.menu.main]]
-name = "about"
+name = "About"
 url = "/blog/about-tedx-and-ted/"
 weight = 1
 [[Languages.en.menu.main]]
-name = "sections"
+name = "Join Us!"
 url = "#services"
 weight = 2
 [[Languages.en.menu.main]]
-name = "speakers"
+name = "Speakers"
 url = "#team"
 weight = 4
 [[Languages.en.menu.main]]
-name = "blog"
+name = "Blog"
 url = "/blog/"
 weight = 6
 [[Languages.en.menu.main]]
-name = "contact"
+name = "Contact"
 url = "#contact"
 weight = 7
 [params]
