@@ -16,5 +16,6 @@ service:
       (limited quantity available)'
   - name: Register to the Streaming
     icon: ti-desktop
-    content: Register to watch the streaming live on 4th November from 1pm to 6pm
-      GMT
+    content: You can't be at the event yet you want to hear the speakers live? Donate
+      any amount (even £1 will do!) and get to watch the streaming live from 1pm to
+      6pm GMT on 4th November.
