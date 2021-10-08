@@ -7,10 +7,6 @@ image_webp = ""
 title = "Sponsors and Partners"
 
 +++
-### Our Sponsors:
-
-TBD
-
 ### Our Partners:
 
 ##### [Island Sailing Club](https://islandsc.org.uk)
