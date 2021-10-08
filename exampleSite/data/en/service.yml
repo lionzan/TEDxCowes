@@ -22,7 +22,7 @@ service:
   - name: Register to the Streaming
     icon: ti-desktop
     content: You cannot attend the event yet you want to watch the speakers live?
-      **Donate any amount (even £1 counts!)** and get to watch the streaming live
+      **Donate any amount (even £1 counts!)** and get to watch the event live streaming
       from 1pm to 6pm GMT on 4th November.
     buttontext: Register
     buttonlink: https://chuffed.org/project/tedxcowes/
