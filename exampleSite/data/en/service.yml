@@ -10,9 +10,10 @@ service:
       thanks to the talks of 7 great speakers and the global stage of the TED platform.
   - name: Get Your Ticket for TEDxCowes
     icon: ti-ticket
-    content: 'Donate to support the event and get your ticket as a perk. Choose between
-      3 levels of perks: simple ticket, +dinner with the speakers, +seat at the speakers
-      table (limited quantity available)'
+    content: 'if you want to be part of the action at TEDxCowes on 4th November, donate
+      to support the event and get your ticket as a perk. Choose between 3 levels
+      of perks: simple ticket, +dinner with the speakers, +seat at the speakers table
+      (limited quantity available)'
   - name: Register to the Streaming
     icon: ti-desktop
     content: Register to watch the streaming live on 4th November from 1pm to 6pm
