@@ -1,11 +1,11 @@
 ---
 service:
   enable: false
-  title: Get Involved!
+  title: Event Sections
   service_item:
   - name: Register to the Streaming
     icon: ''
-    content: 'Register to get access to the streaming for free! '
+    content: Register to view the streaming live on 4th November from 1pm to 6pm GMT
   - name: Online
     icon: ti-video-camera
     content: Speakers online
