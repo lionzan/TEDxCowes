@@ -1,7 +1,7 @@
 +++
 author = "TEDxCowes team"
 date = 2021-10-07T23:00:00Z
-description = ""
+description = "All TEDxCowes supporters from our crowdfunding campaign."
 image = "/images/cheers-edward-cisneros-kokaxlkjwhk-unsplash.jpeg"
 image_webp = ""
 title = "TEDxCowes Supporters"
