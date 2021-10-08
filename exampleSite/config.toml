@@ -23,7 +23,7 @@ url = "/blog/about-tedx-and-ted/"
 weight = 1
 [[Languages.en.menu.main]]
 name = "Join Us!"
-url = "#services"
+url = "#joinus"
 weight = 2
 [[Languages.en.menu.main]]
 name = "Speakers"
