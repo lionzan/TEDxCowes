@@ -21,7 +21,9 @@ portfolio:
   - name: Eat Street
     image: "/images/eatstreetlarge2-300x198-jpg.jpeg"
     image_webp: ''
-    categories: ''
+    categories:
+    - Partner
+    - Sponsor
     content: Unique recipes, with modern twists on traditional food.
     link: https://eatstreetiow.co.uk/
   - name: Gavin Ford
