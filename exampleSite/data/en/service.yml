@@ -1,7 +1,7 @@
 ---
 service:
   enable: true
-  title: Get Involved!
+  title: Join Us!
   service_item:
   - name: Support the Event
     icon: ti-gift
