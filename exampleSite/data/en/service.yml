@@ -14,7 +14,7 @@ service:
   - name: Get Your Ticket
     icon: ti-ticket
     content: 'If you want to be part of the action at TEDxCowes on 4th November, donate
-      to support the event and get your ticket as a perk. Choose between 3 levels
+      to support the event and **get your ticket as a perk**. Choose between 3 levels
       of perks: admission ticket, +dinner with the speakers, +seat at the speakers
       table (limited quantities available)'
     buttontext: Get Ticket
