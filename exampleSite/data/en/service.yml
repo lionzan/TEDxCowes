@@ -3,7 +3,7 @@ service:
   enable: true
   title: Event Sections
   service_item:
-  - name: SUpport TEDxCowes
+  - name: Support the event
     icon: ti-gift
     content: Donate to support TEDxCowes if you are passionate of Ocean and Sustainability
       and want to make a difference. TEDxCowes aims to inspire thousands of people
