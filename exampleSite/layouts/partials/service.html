@@ -25,7 +25,8 @@
 					</div>
 					<h3>{{ .name | markdownify }}</h3>
 					<p>{{ .content | markdownify }}</p>
-					{{ if .list }}
+					{{ if .buttonlink }}
+					  <a class="btn btn-primary active" role="button" aria-pressed="true" href="{{ .buttonlink }}">{{ .buttontext }}</a>
 					{{ end }}
 				</div>
 			</article>
