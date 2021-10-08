@@ -2,7 +2,7 @@
 author = "TEDxCowes team"
 date = 2021-10-07T23:00:00Z
 description = ""
-image = "/images/fabian-blank-pelskgra2nu-unsplash.jpeg"
+image = "/images/cheers-edward-cisneros-kokaxlkjwhk-unsplash.jpeg"
 image_webp = ""
 title = "TEDxCowes Supporters"
 
