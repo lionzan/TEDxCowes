@@ -1,7 +1,7 @@
 ---
 service:
   enable: true
-  title: Event Sections
+  title: Be Part of TEDxCowes!
   service_item:
   - name: Support the Event
     icon: ti-gift
