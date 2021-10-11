@@ -26,21 +26,3 @@ portfolio:
     - Sponsor
     content: Unique recipes, with modern twists on traditional food.
     link: https://eatstreetiow.co.uk/
-  - name: Gavin Ford
-    image: "/images/gavin.jpeg"
-    image_webp: ''
-    categories:
-    - Volunteer
-    - Management
-    content: Founder of Red Dot IOW | Chairperson at Cowes Business Association |
-      Buy Local Ambassador
-    link: https://www.linkedin.com/in/gavinford/
-  - name: Leonardo Zangrando
-    image: "/images/leonardo250x250.jpg"
-    image_webp: ''
-    categories:
-    - Volunteer
-    - Management
-    content: Guiding leaders to leave a legacy and multiply their impact on the world
-      and on their personal life.
-    link: https://leonardo.zangrando.com
