@@ -9,7 +9,9 @@ title = "TEDxCowes Supporters"
 +++
 ## TEDxCowes Supporters
 
-Get featured in the list of TEDxCowes supporters with a donation. Even £1 counts! Ad you will also get a complimentary access to the live streaming! [Donate here](https://chuffed.org/project/tedxcowes/).
+Get featured in the list of TEDxCowes supporters with a donation. Even £1 counts! And you will also get a **complimentary access to the live streaming**... unless you decide to pick one of the perks and **be with us in person**, that is!
+
+[Donate here](https://chuffed.org/project/tedxcowes/)
 
 #### Thank you to our supporters!!!!
 
