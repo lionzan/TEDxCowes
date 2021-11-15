@@ -31,3 +31,10 @@ portfolio:
     - Supporters
     content: ''
     link: ''
+  - name: Thames Sailing Club
+    image_webp: ''
+    categories:
+    - Supporter
+    content: ''
+    link: https://www.thamessailingclub.co.uk/
+    image: "/images/tscflag-250.jpg"
