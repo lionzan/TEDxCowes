@@ -14,7 +14,6 @@ portfolio:
     image: "/images/isccrop250x250.png"
     image_webp: ''
     categories:
-    - Partner
     - Sponsor
     content: ''
     link: https://islandsc.org.uk
@@ -22,6 +21,6 @@ portfolio:
     image: "/images/cba250x250.png"
     image_webp: ''
     categories:
-    - Partner
+    - Supporter
     content: ''
     link: https://www.cowesbusiness.org.uk/
