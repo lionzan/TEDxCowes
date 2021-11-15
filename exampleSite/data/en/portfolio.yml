@@ -38,3 +38,10 @@ portfolio:
     content: ''
     link: https://www.thamessailingclub.co.uk/
     image: "/images/tscflag-250.jpg"
+  - name: Little Ship Club
+    image_webp: ''
+    categories:
+    - Supporter
+    content: ''
+    link: https://littleshipclub.co.uk/
+    image: "/images/lscflag-250.jpg"
