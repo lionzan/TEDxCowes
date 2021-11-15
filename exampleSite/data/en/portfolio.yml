@@ -3,6 +3,13 @@ portfolio:
   enable: true
   title: Sponsors, Partners & Volunteers
   portfolio_item:
+  - name: Cowes Harbour Commission
+    image: "/images/chc-logo-250.jpg"
+    image_webp: ''
+    categories:
+    - sponsor
+    content: ''
+    link: ''
   - name: Island Sailing Club
     image: "/images/isccrop250x250.png"
     image_webp: ''
